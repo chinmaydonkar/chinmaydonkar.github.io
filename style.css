@@ -663,13 +663,7 @@ body {
   .contact-form {
     padding: 35px 40px;
   }
-  .gitstat{
-
-    display: flex; 
-    justify-content:center;
-    width: 80%;
-    margin: auto;
-    }
+  
 }
 
 .scrollToTop-btn {
@@ -940,3 +934,10 @@ body {
     }
  
 }
+.gitstat{
+
+  display: flex; 
+  justify-content:center;
+  width: 80%;
+  margin: auto;
+  }
