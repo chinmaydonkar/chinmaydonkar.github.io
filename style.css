@@ -8,6 +8,13 @@
   scroll-behavior: smooth;
 }
 
+.gitstat{
+display: flex; 
+justify-content:center;
+width: 80%;
+margin: auto;
+}
+
 section {
   padding: 100px 200px;
 }
